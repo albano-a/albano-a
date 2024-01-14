@@ -25,8 +25,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/andrealbano"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/andrealbano" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albano-a&show_icons=true&locale=en&layout=compact" alt="albano-a" /></p>
+<div class="github-stats-container">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albano-a&show_icons=true&locale=en&layout=compact" alt="albano-a" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albano-a&show_icons=true&locale=en" alt="albano-a" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albano-a&" alt="albano-a" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albano-a&show_icons=true&locale=en" alt="albano-a" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albano-a&" alt="albano-a" /></p>
