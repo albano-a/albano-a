@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albano-a" alt="albano-a" /></a> </p>
 
-- 🔭 I’m currently working on [GeofisicaHub](geofisica.github.io)
+- 🔭 I’m currently working on [GeofisicaHub](https://github.com/albano-a/geofisica.github.io)
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
