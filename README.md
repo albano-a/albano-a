@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python projects, software development, web design, etc.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albano-a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albano-a&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Languages and Tools:</h3>
 <p> 
