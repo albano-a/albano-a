@@ -32,7 +32,7 @@
 </p>
 
 <div class="github-stats-container">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albano-a&" alt="albano-a" /></p>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=albano-a&theme=vue-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 <h3 align="left">Support:</h3>
