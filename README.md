@@ -9,9 +9,14 @@
 
 - 👯 I’m looking to collaborate on **Python projects, software development, web design, etc.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albano-a&hide=jupyter%20notebook,astro,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albano-a&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albano-a&hide=jupyter%20notebook,astro,css&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=albano-a&show_icons=true&theme=tokyonight" />
+</p>
+
+
+
+
 
 <h3>Languages and Tools:</h3>
 <p> 
@@ -27,10 +32,6 @@
     <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a> 
-    
 </p>
 
 <div class="github-stats-container">
