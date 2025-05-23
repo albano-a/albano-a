@@ -1,6 +1,9 @@
 <h1 align="center">Hello there!</h1>
 <h3 align="center">I'm André, a Brazilian geophysicist, developer and coder</h3>
 
+<p>I'm from Rio de Janeiro and work as a researcher in a group at a Brazilian university. My work involves seismic inversion, AVO analysis, software development, and various other topics. In my personal projects, I explore different programming languages, build apps, and constantly look for opportunities to learn something new.</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albano-a&label=Profile%20views&color=0e75b6&style=flat" alt="albano-a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albano-a&theme=darkhub&column=3" alt="albano-a" /></a> </p>
