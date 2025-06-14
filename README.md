@@ -12,7 +12,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albano-a&hide=jupyter%20notebook,astro,css&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=albano-a&show_icons=true&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=albano-a&show_icons=true&theme=tokyonight" /> -->
 </p>
 
 
