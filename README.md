@@ -34,7 +34,7 @@
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albano-a&hide=jupyter%20notebook,astro,css&theme=tokyonight" alt="Top languages" />  
   <br>  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=albano-a&theme=vue-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albano-a&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ---
