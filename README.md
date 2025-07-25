@@ -36,10 +36,3 @@
   <br>  
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=albano-a&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
-
----
-
-### ☕ Support My Work  
-If you find my projects useful, consider supporting me on <a href="https://www.buymeacoffee.com/andrealbano">Buy Me a Coffee</a>. Your contribution helps maintain and improve open-source tools for the geoscience community.
-
----
